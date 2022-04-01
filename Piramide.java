@@ -37,11 +37,11 @@ public class Piramide {
 
         // recuperar valor inteiro positivo inserido pelo usuário 
         int niveis;
-        System.out.println("Número digite o número de andares da pirâmede desejada: ");
+        System.out.println("Número digite o número de andares da pirâmide desejada: ");
         Scanner sc = new Scanner(System.in);
         niveis = sc.nextInt();
 
-        System.out.println("Desenhando a pirâmede... ");
+        System.out.println("Desenhando a pirâmide... ");
         System.out.println("Resultado: ");
 
         // percorrer os níveis de 1 à N, onde N é o valor de andares fornecido pelo usuário
