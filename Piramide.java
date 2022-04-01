@@ -41,7 +41,7 @@ public class Piramide {
         Scanner sc = new Scanner(System.in);
         niveis = sc.nextInt();
 
-        System.out.println("Desenhando a pirâmede... ");
+        System.out.println("Desenhando a pirâmide... ");
         System.out.println("Resultado: ");
 
         // percorrer os níveis de 1 à N, onde N é o valor de andares fornecido pelo usuário
@@ -54,7 +54,7 @@ public class Piramide {
 
     }
     
-    //imprime a linha do nível dado em relação ao nível da base da pirâmede
+    //imprime a linha do nível dado em relação ao nível da base da pirâmide
     public static void imprimirHashtags(int nivelAtual, int ultimoNivel) {
         int qtdEspacos = ultimoNivel - nivelAtual; // a quantidade de espaços para cada nível é sempre o último nível subtraído pelo nível atual (para cada lado)
         int qtdHashtagNoNivel = 1; // primeiro nível sempre possuirá um hashtag
