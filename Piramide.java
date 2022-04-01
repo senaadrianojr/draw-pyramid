@@ -64,13 +64,13 @@ public class Piramide {
         }
 
         // imprimir os espaços do lado esquerdo da cadeia de hashtagas do nível atual
-        imprimirCadeiaDeCaracteres(qtdEspacos, '_');
+        imprimirCadeiaDeCaracteres(qtdEspacos, '-');
 
         // imprimir os hashtags do nível atual
         imprimirCadeiaDeCaracteres(qtdHashtagNoNivel, '#');
 
         // imprimir os espaços do lado direito da cadeia de hashtags do nível atual
-        imprimirCadeiaDeCaracteres(qtdEspacos, '_');
+        imprimirCadeiaDeCaracteres(qtdEspacos, '-');
     }
 
     //imprime N repetições de um dado caracter
