@@ -33,13 +33,6 @@ public class Piramede {
 // -#######-
 // #########
 
-//piramede(6)
-// ---#---
-// --###--
-// -#####-
-// #######
-// ###########
-
     public static void main(String[] args) {
 
         // recuperar valor inteiro positivo inserido pelo usuário 
