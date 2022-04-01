@@ -1,5 +1,5 @@
 # draw-pyramid
-Algoritimo codificado em Java para desenhar uma pirâmede dado os seguintes requisitos:
+Algoritimo codificado em Java para desenhar uma pirâmide dado os seguintes requisitos:
 
 A função/método deve imprimir no console o formato de uma pirâmide
 de N níveis com o carácter #. Tanto do lado esquerdo quanto direito
